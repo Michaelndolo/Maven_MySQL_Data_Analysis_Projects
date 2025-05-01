@@ -1,4 +1,4 @@
-# Maven_MySqL_Data_Analysis_Projects
+# Maven_MySQL_Data_Analysis_Projects
 
 ## Table of Contents
 
