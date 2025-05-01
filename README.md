@@ -31,4 +31,4 @@ Database: The primary database used for this analysis is the file titled *"creat
 
 I began the project with a quick intro to the SQL language, addressing some key database fundamentals, and using MySQL to select, filter, sort and group data from individual tables. From there I shifted into more complex use cases, and blended data across multiple tables with JOIN queries.
 
-Skills applied; *database normalization and cardinality, The "SQL big 6", multi-table querying, CASE & COUNT statements, Subqueries, Bridging of unrelated tables, Union Operator among others.*
+- Skills applied; *database normalization and cardinality, The "SQL big 6", multi-table querying, CASE & COUNT statements, Subqueries, Bridging of unrelated tables, Union Operator among others.*
